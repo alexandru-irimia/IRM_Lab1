@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 1f37c8bc6eb81b246ab8c24d8fff92f5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cactusObject1: {fileID: 100052, guid: 68d8f3eae01c5744b996aab3358db0a0, type: 3}
+  - cactusObject2: {fileID: 100052, guid: 68d8f3eae01c5744b996aab3358db0a0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
